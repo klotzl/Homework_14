@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E712" />
+          <option value="E305" />
+          <option value="E225" />
+          <option value="E111" />
+          <option value="E113" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="classes.basic_word" />
+          <option value="BasicWord" />
+          <option value="Homework.Coursework_2.main.*" />
+          <option value="Homework.Homework_12.lesson12_project_source_v3.app.loader_blueprint" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
